@@ -2,19 +2,21 @@
 
 Installation Guide
 ------------------
+To download the runtime library setup go to http://sourceforge.net/projects/dotnetruntimelibraryfordelphi/
+
 To install .Net Runtime Library for Delphi, do the following:
 
-a. Install the Runtime Library using the installer (DotNetRuntimeLibrary4Delphi.msi). 
+a.	Install the Runtime Library using the installer (DotNetRuntimeLibrary4Delphi.msi). 
 
-b. Run Delphi IDE.
+b.	Run Delphi IDE.
 
-c. Choose Tools -> Options -> Delphi Options -> Library.
+c.	Choose Tools -> Options -> Delphi Options -> Library.
 
-d. Verify, and add if required, the \.Net Runtime Library for Delphi\Source\ path to "Library path".
+d.	Verify, and add if required, the \.Net Runtime Library for Delphi\Source\ path to "Library path".
 
-e. You are now good to use the runtime library interfaces.
+e.	You are now good to use the runtime library interfaces.
 
-f. Examples can be found in \.Net Runtime Library for Delphi\Demos\.
+f.	Examples can be found in \.Net Runtime Library for Delphi\Demos\.
 
 
 Supported Versions of Delphi
